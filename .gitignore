@@ -1,0 +1,3 @@
+/dns
+*.test
+coverage.out
