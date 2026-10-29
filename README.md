@@ -1,7 +1,8 @@
 # NetGoat DNS
 
 Standalone authoritative DNS service repository: `github.com/netgoat-xyz/dns`.
-The Docker image is published as `netgoat-xyz/dns`.
+The Docker image is published to GitHub Container Registry as
+`ghcr.io/netgoat-xyz/dns`.
 
 This service serves active zones and DNS records from `stream-server`. It is
 authoritative only: it does not recurse, forward queries, provide zone
